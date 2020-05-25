@@ -1,5 +1,5 @@
 # Portfolio-Risk-Management-during-and-after-Financial-Crisis-2007-2010
-Completed a comprehensive project on portfolio risk management considering returns of four major investment banks during financial crisis (2007-2009) using Python. 
+Completed a comprehensive project on portfolio risk management considering returns of four major investment banks during financial crisis (2007-2010) using Python. 
 
 Worked extensively on following modules:
 

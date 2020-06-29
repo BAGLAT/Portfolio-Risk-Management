@@ -10,3 +10,5 @@ Worked extensively on following modules:
 5. Visualizing structural breaks in asset returns distribution during extreme crisis events.
 6. Extreme Value Theory and Kernel Density Estimation.
 7. Real time risk management using Neural Network.
+
+![](Images/Efficient%20Frontier%20Whole%20Period%20Using%20Monte%20Carlo%20Simulation.png)

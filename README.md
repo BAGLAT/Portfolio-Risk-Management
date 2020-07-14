@@ -11,4 +11,6 @@ Worked extensively on following modules:
 6. Extreme Value Theory and Kernel Density Estimation.
 7. Real time risk management using Neural Network.
 
+EFFICIENT FRONTIER USING MONTE CARLO SIMULATION
+
 ![](Images/Efficient%20Frontier%20Whole%20Period%20Using%20Monte%20Carlo%20Simulation.png)
